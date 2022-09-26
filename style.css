@@ -1,9 +1,10 @@
 .huge{
     font-size: 10rem;
+    /* visibility: hidden; */
 }
-/* .indivisible{
+.indivisible{
     font-size: 5em;
-} */
+}
 .btn{
     font-size: 5em;
 }
